@@ -123,9 +123,9 @@ s = Person('Morning', 'sleep', 'wake up', 'breakfast')
 s.create_person()
 a = Person('', 'sleep')
 a.create_person()
-z = Person('Evening', 'sleep', 'wake up', 'breakfast', 'take dump', 'lunch')
+z = Person('Evening', 'sleep', 'wake up', 'breakfast', 'lunch')
 z.create_person()
-m = Person('Vlad', 'sleep')
+m = Person('Bob', 'sleep')
 m.create_person()
 
 
